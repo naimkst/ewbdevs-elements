@@ -1,7 +1,7 @@
 ﻿=== Ewebdevs Elements ===
 Contributors: naimkst
 Donate link: https://ewebdevs.com
-Tags: elementor, elementor widget, elementor extention, elementor addons, elementor hero section, elementor slider, elementor banner
+Tags: elementor, elementor widget, elementor extention, elementor addons, elementor testimonial section, elementor testimonial, elementor clients section, testimonial, clients say,
 Requires at least: 5.0
 Tested up to: 5.6
 Stable tag: 1.0.0
